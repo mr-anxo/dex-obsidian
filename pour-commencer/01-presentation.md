@@ -1,17 +1,18 @@
-# Presentation de Obsidian
+---
+icon: presentation-screen
+---
 
-![Logo Obsidian](./pictures/logo-obsidian.jpg)
+# Présentation
+
+![Logo Obsidian](../pictures/logo-obsidian.jpg)
 
 ## Qu'est-ce qu'Obsidian ?
 
-Obsidian est un outil de prise de notes et de gestion des connaissances révolutionnaire qui transforme votre façon de créer, organiser et connecter vos idées et créer une knowledge base (base de connaissances).
-L'innovation d'Obsidian réside dans sa capacité à créer des liens entre vos notes grâce à des métadonnées associées à chaque note, transformant votre collection de notes en un réseau de connaissances interconnecté.
-Obsidian s'appuie sur la méthode **Zettelkasten**.
+Obsidian est un outil de prise de notes et de gestion des connaissances révolutionnaire qui transforme votre façon de créer, organiser et connecter vos idées et créer une knowledge base (base de connaissances). L'innovation d'Obsidian réside dans sa capacité à créer des liens entre vos notes grâce à des métadonnées associées à chaque note, transformant votre collection de notes en un réseau de connaissances interconnecté. Obsidian s'appuie sur la méthode **Zettelkasten**.
 
 ## Qu'est-ce que le Zettelkasten ?
 
-Zettelkasten signifie littéralement "boîte de notes" en allemand. Cette méthode révolutionnaire a été élaborée par Niklas Luhmann, chercheur en sociologie et philosophie, entre les années 1960 et 1990.
-L'enjeu central du Zettelkasten est de faire des liens entre les notes grâce à des métadonnées associées à chaque note.
+Zettelkasten signifie littéralement "boîte de notes" en allemand. Cette méthode révolutionnaire a été élaborée par Niklas Luhmann, chercheur en sociologie et philosophie, entre les années 1960 et 1990. L'enjeu central du Zettelkasten est de faire des liens entre les notes grâce à des métadonnées associées à chaque note.
 
 La méthode des liens ne vient pas de nulle part. Elle s'appuie sur le fonctionnement naturel de notre cerveau qui crée des associations entre les concepts. Cette approche permet l'émergence d'idées nouvelles par connexion, la redécouverte d'informations pertinentes, et la construction progressive d'une pensée complexe.
 

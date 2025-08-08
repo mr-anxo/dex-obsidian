@@ -1,6 +1,10 @@
-# Installation de Obsidian
+---
+icon: download
+---
 
-Obsidian est disposible sur les systèmes iOS, Android, Windows, Mac, Linux. Il es également disponible au niveau des navigateurs sous forme d'extention du navigateur.
+# Installation
+
+Obsidian est disponible sur les systèmes iOS, Android, Windows, Mac, Linux. Il es également disponible au niveau des navigateurs sous forme d'extention du navigateur.
 
 Pour installer Obsidian,
 
@@ -18,12 +22,12 @@ Double cliquez sur l'exécutable Obsidian, puis suivez les instruction
 sudo dpkg -i obsidian.deb
 ```
 
-** Création d'un coffre
+\*\* Création d'un coffre
 
-![Création d'un coffre 1](./pictures/creation-coffre-1.png)
+![Création d'un coffre 1](../pictures/creation-coffre-1.png)
 
-![Création d'un coffre 2](./pictures/creation-coffre-2.png)
+![Création d'un coffre 2](../pictures/creation-coffre-2.png)
 
 * Présentation de l'interface de Obsidian
 
-![Interface de Obsidian](./pictures/interface-de-obsidian.png)
+![Interface de Obsidian](../pictures/interface-de-obsidian.png)

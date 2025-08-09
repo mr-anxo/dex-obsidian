@@ -10,10 +10,10 @@ Markdown est un langage de balisage léger créé par John Gruber en 2004. Il pe
 
 ### Avantages de Markdown
 
-* **Simplicité** : Syntaxe intuitive et facile à apprendre
-* **Lisibilité** : Le texte source reste lisible même sans rendu
-* **Portabilité** : Compatible avec de nombreux outils et plateformes
-* **Rapidité** : Permet une écriture rapide sans quitter le clavier
+* **Simplicité** : syntaxe intuitive et facile à apprendre
+* **Lisibilité** : le code source reste lisible même sans rendu
+* **Portabilité** : compatible avec de nombreux outils et plateformes
+* **Rapidité** : permet une écriture rapide sans quitter le clavier
 
 ## Syntaxe de base
 
@@ -60,8 +60,8 @@ Titre niveau 2
 
 #### Paragraphes et sauts de ligne
 
-* **Paragraphe** : Séparez par une ligne vide
-* **Saut de ligne** : Terminez une ligne par deux espaces ou utilisez `<br>`
+* **Paragraphe** : séparez par une ligne vide
+* **Saut de ligne** : terminez une ligne par deux espaces ou utilisez `<br>`
 
 ```markdown
 Premier paragraphe.
@@ -318,39 +318,39 @@ X^2^ (exposant)
 
 #### Structure et organisation
 
-1. **Utilisez une hiérarchie logique** des titres
-2. **Ajoutez une table des matières** pour les documents longs
-3. **Utilisez des liens internes** pour la navigation
-4. **Séparez les sections** avec des lignes horizontales si nécessaire
+1. **Utilisez une hiérarchie logique** des titres.
+2. **Ajoutez une table des matières** pour les documents longs.
+3. **Utilisez des liens internes** pour la navigation.
+4. **Séparez les sections** avec des lignes horizontales si nécessaire.
 
 #### Formatage cohérent
 
-1. **Choisissez un style** pour l'emphase (`*` ou `_`) et restez cohérent
-2. **Utilisez des espaces** autour des éléments de liste
-3. **Indentez correctement** les sous-éléments
-4. **Ajoutez des lignes vides** autour des blocs de code et tableaux
+1. **Choisissez un style** pour l'emphase (`*` ou `_`) et restez cohérent.
+2. **Utilisez des espaces** autour des éléments de liste.
+3. **Indentez correctement** les sous-éléments.
+4. **Ajoutez des lignes vides** autour des blocs de code et tableaux.
 
 #### Accessibilité
 
-1. **Utilisez des textes alternatifs** descriptifs pour les images
-2. **Créez des liens explicites** plutôt que "cliquez ici"
-3. **Structurez correctement** avec les niveaux de titres
+1. **Utilisez des textes alternatifs** descriptifs pour les images.
+2. **Créez des liens explicites** plutôt que "cliquez ici".
+3. **Structurez correctement** avec les niveaux de titres.
 
 #### Performance et maintenance
 
-1. **Optimisez les images** en taille et format
-2. **Utilisez des liens relatifs** quand possible
-3. **Vérifiez régulièrement** les liens externes
-4. **Documentez vos conventions** dans un guide de style
+1. **Optimisez les images** en taille et format.
+2. **Utilisez des liens relatifs** si possible.
+3. **Vérifiez régulièrement** les liens externes.
+4. **Documentez vos conventions** dans un guide de style.
 
 ### Outils et éditeurs
 
 #### Éditeurs spécialisés
 
-* **Typora** : Éditeur WYSIWYG
-* **Mark Text** : Éditeur temps réel
-* **Zettlr** : Pour la recherche académique
-* **Obsidian** : Pour la prise de notes liée
+* **Typora** : éditeur WYSIWYG.
+* **Mark Text** : éditeur temps réel.
+* **Zettlr** : pour la recherche académique.
+* **Obsidian** : pour la prise de notes liée.
 
 #### Éditeurs de code avec support Markdown
 

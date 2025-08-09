@@ -12,25 +12,25 @@ Pour la configuration de votre espace Obsidian, vous devez vous rendre au niveau
 
 Quelques paramètres qu'il est intéressant de configurer pour commencer.
 
-* **General > Rechercher les mises à jours :** Pour vérifier que vous disposez de la dernière mise à jour
-* **General > Language :** Configurer la langue du logiciel
+* **Général > Rechercher les mises à jour :** pour vérifier que vous disposez de la dernière mise à jour
+* **Général > Langue :** configurer la langue du logiciel
 
 
 
-* **Éditeur > Mode par défaut pour les nouveaux onglets :** Aperçu en directe pour bénéficier de la la visualisation du rendu du code markdown pendant l'édition.
-* **Éditeur > Vérification Orthographique :**  Active le correcteur orthographique des textes.
-* **Éditeur > Langues du correcteur :** Défini les langues sur lesquelles doivent se basé le correcteur d'orthographe.
+* **Éditeur > Mode par défaut pour les nouveaux onglets :** aperçu en direct pour bénéficier de la visualisation du rendu du code markdown pendant l'édition.
+* **Éditeur > Vérification Orthographique :**  active le correcteur orthographique des textes.
+* **Éditeur > Langues du correcteur :** défini les langues sur lesquelles doivent se baser le correcteur d'orthographe.
 
 
 
-* **Fichiers & liens > Emplacement par défaut des nouvelles pièces jointes :** Défini ou doit être ranger les pièces jointes à une note. Vous pouvez choix l'option qui vous convient le mieux.&#x20;
+* **Fichiers & liens > Emplacement par défaut des nouvelles pièces jointes :** défini ou doit être rangé les pièces jointes à une note. Vous pouvez choisir l'option qui vous convient le mieux.&#x20;
 
-> Si vous choisissez de ranger vos pièces jointe dans un dossier précis (Un dossier communs, ou sous-dossier pour chaque dossier de notes), il vous sera demandé tout juste en bas de renseigner le nom du dossier.
+> Si vous choisissez de ranger vos pièces jointes dans un dossier précis (un dossier commun, ou sous-dossier pour chaque dossier de notes), il vous sera demandé tout juste en bas de renseigner le nom du dossier.
 
 
 
-* **Apparence > Themes :** Choisir ou installer le thème qui convient ou rester sur le thème par défaut.
-* **Apparence > Police :** Gérer la police de l'interface, des textes
+* **Apparence > Thèmes :** choisir ou installer le thème qui convient ou rester sur le thème par défaut.
+* **Apparence > Police : g**érer la police de l'interface, des textes
 
 
 

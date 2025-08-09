@@ -1,24 +1,10 @@
+---
+icon: markdown
+---
+
 # Language Markdown
 
 ## Présentation de MarkDown
-
-1. Introduction
-2. Syntaxe de base
-3. Titres
-4. Formatage du texte
-5. Listes
-6. Liens
-7. Images
-8. Code
-9. Tableaux
-10. Citations
-11. Lignes horizontales
-12. Échappement de caractères
-13. Markdown étendu
-14. Bonnes pratiques
-15. Outils et éditeurs
-
-
 
 Markdown est un langage de balisage léger créé par John Gruber en 2004. Il permet de formater du texte de manière simple et lisible, tout en étant facilement convertible en HTML. Markdown est largement utilisé pour la documentation, les README, les blogs, et les plateformes comme GitHub.
 

@@ -6,9 +6,13 @@
 ## POUR COMMENCER
 
 * [Présentation](pour-commencer/01-presentation.md)
-* [Installation](pour-commencer/02-installation.md)
+* [Installation](pour-commencer/installation.md)
 * [Configuration](pour-commencer/03-configuration.md)
 
 ## PRISE EN MAIN
 
-* [Page 2](prise-en-main/page-2.md)
+* [Language Markdown](prise-en-main/language-markdown.md)
+
+## DIVERS
+
+* [Sources](divers/sources.md)

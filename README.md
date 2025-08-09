@@ -4,6 +4,8 @@ icon: book-open
 
 # Introduction
 
+<figure><img src="pictures/logo-obsidian.jpg" alt=""><figcaption></figcaption></figure>
+
 Cette documentation présente une vue d’ensemble claire des **principes de fonctionnement d’Obsidian**, ses usages concrets, et de guider l’utilisateur dans les **premiers pas**, la **prise en main**, et la **personnalisation** de son environnement de travail.
 
 Elle s’adresse principalement aux utilisateurs techniques, professionnels de l’IT, étudiants, chercheurs, ou toute personne ayant besoin de centraliser, relier et structurer ses idées de manière flexible et évolutive.
@@ -12,10 +14,11 @@ Elle s’adresse principalement aux utilisateurs techniques, professionnels de l
 
 ## 1.1.  Objectifs de la documentation
 
-L’objectif de cette documentation est de permettre à tout lecteur de :
+L’objectif de cette documentation est de permettre à tout lecteur de :&#x20;
 
 * Comprendre les **fondamentaux** d’Obsidian
 * Installer et configurer l’outil sur les principaux appareils (PC et Smartphones)
+* Comprendre le format d'édition des notes Obsidian
 * Créer, organiser et interconnecter ses notes efficacement
 * Exploiter des **plugins** pour enrichir l'expérience
 * Présenter des **cas d’usage concrets** pour le travail, l’étude ou les projets personnels
@@ -26,8 +29,8 @@ L’objectif de cette documentation est de permettre à tout lecteur de :
 
 Cette documentation est destinée aux :
 
-* Administrateurs système, DevOps, développeurs
-* Étudiants, chercheurs ou professionnels souhaitant structurer leur savoir
+* Administrateurs système, DevOps, développeurs, professionnel IT ...
+* Étudiants, chercheurs  souhaitant structurer ses connaissances
 * Utilisateurs de méthodes comme **Zettelkasten**, **PKM (Personal Knowledge Management)** ou **GTD (Getting Things Done)**
 
 ***
@@ -37,7 +40,6 @@ Cette documentation est destinée aux :
 Pour profiter pleinement de cet outils, vous devez :
 
 * Savoir manipuler des fichiers et dossiers sur votre ordinateur ou Smartphone
-* Connaissances basiques en Markdown (non obligatoire, mais utile)
 * Une volonté de structurer sa pensée ou ses projets
 
 ***

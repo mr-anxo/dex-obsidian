@@ -1,22 +1,18 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Démarrage rapide](01-demarrage-rapide.md)
+* [Démarrage rapide](demarrage-rapide.md)
 
-## POUR COMMENCER <a href="#02-pour-commencer" id="02-pour-commencer"></a>
+## POUR COMMENCER <a href="#01-pour-commencer" id="01-pour-commencer"></a>
 
-* [Présentation](02-pour-commencer/01-presentation.md)
-* [Installation](02-pour-commencer/02-installation.md)
-* [Configuration](02-pour-commencer/03-configuration.md)
+* [Présentation](01-pour-commencer/01-presentation.md)
+* [Installation](01-pour-commencer/02-installation.md)
+* [Configuration](01-pour-commencer/03-configuration.md)
 
-## PRISE EN MAIN <a href="#03-prise-en-main" id="03-prise-en-main"></a>
+## PRISE EN MAIN <a href="#02-prise-en-main" id="02-prise-en-main"></a>
 
-* [Language Markdown](03-prise-en-main/01-language-markdown.md)
+* [Language Markdown](02-prise-en-main/01-language-markdown.md)
 
-## DIVERS
+## DIVERS <a href="#03-divers" id="03-divers"></a>
 
-* [Sources](divers/sources.md)
-
-***
-
-* [Aide](08-aide.md)
+* [Sources](03-divers/sources.md)
